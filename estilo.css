@@ -1,0 +1,31 @@
+.fondo{
+	background-color: #DE1D22;
+}
+.fondo1{
+	background-color: #ededed;
+}
+.fondo2{
+	background-color: #000000;
+}
+.letra{
+	font-family: 'Inter', sans-serif;
+}
+.padding{
+	padding-left: 5em;
+}
+.color{
+	color: #ededed;
+}
+.iconos{
+	font-size: 1.5em;
+	color: #ededed;
+}
+.tamaño1{
+	height: 29em; 
+}
+.margin{
+	margin-left: 1em;
+}
+body{
+	background-color: #ededed;
+}
