@@ -29,3 +29,7 @@
 body{
 	background-color: #ededed;
 }
+.nav-link:hover{
+	background-color: #ededed;
+	border-radius: 0.5em;
+}
